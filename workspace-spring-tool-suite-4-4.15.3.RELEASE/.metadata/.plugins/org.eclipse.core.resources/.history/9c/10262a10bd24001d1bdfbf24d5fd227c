@@ -1,0 +1,5 @@
+package net.spirngboot.backend.repository;
+
+public interface EmployeeRepository {
+
+}
